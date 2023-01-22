@@ -22,7 +22,8 @@ associés à l'exercice
 - de visualiser le score et le classement des équipes
 
 ## Résultats attendus
-Application composée de microservices (Java / Springboot) Conteneurises (Docker).
+Application composée de microservices (Java / Springboot) 
+Conteneurises (Docker).
 Base de données relationnelles ou NOSQL.
 Techno Frontend (Angular ou equivalent)
 
