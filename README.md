@@ -16,7 +16,7 @@ associés à l'exercice
 - D'avoir une IHM pour les juges permettant
 - de créer des équipes
 - de gérer des équipes
-- d'afficher en temps réel le score des équipes lors de l'évènement
+- d'afficher en temps réel le score des équipes lors de l'évènement 
 - D'avoir une IHM pour les équipes permettant
 - de soumettre la réponse
 - de visualiser le score et le classement des équipes
