@@ -28,7 +28,7 @@ Base de données relationnelles ou NOSQL.
 Techno Frontend (Angular ou equivalent)
 
 ## LIVRABLES :
-Modelisation des uses cases
+Modélisation des uses cases
 Dossier de conception
 Binaires & code Source
 Indicateurs qualité / sécurité
