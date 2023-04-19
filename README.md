@@ -14,12 +14,12 @@ L'objectif du projet est donc de proposer une application permettant :
 - D'avoir une IHM d'administration pour saisir des sujets d'exercice et de définir le nombre de points
 associés à l'exercice
 - D'avoir une IHM pour les juges permettant
-- de créer des équipes
-- de gérer des équipes
-- d'afficher en temps réel le score des équipes lors de l'évènement 
+  - de créer des équipes
+  - de gérer des équipes
+  - d'afficher en temps réel le score des équipes lors de l'évènement 
 - D'avoir une IHM pour les équipes permettant
-- de soumettre la réponse
-- de visualiser le score et le classement des équipes
+  - de soumettre la réponse
+  - de visualiser le score et le classement des équipes
 
 ## Résultats attendus
 Application composée de microservices (Java / Springboot) 
