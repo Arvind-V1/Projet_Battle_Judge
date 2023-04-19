@@ -25,7 +25,7 @@ associés à l'exercice
 Application composée de microservices (Java / Springboot) 
 Conteneurises (Docker).
 Base de données relationnelles ou NOSQL.
-Techno Frontend (Angular ou equivalent)
+Techno Frontend (Thymeleaf)
 
 ## LIVRABLES :
 Modélisation des uses cases
